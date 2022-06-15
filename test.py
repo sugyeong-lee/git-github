@@ -1,7 +1,11 @@
 print("hello world!")
 print("드디어 로컬과 연결 성공!!!!")
 
-
+##git
+# 초기화
+git init
+# 들어가기
+cd ,,,
 # 깃허브 연결 확인
 git remote -v
 # 저장소 끊기
