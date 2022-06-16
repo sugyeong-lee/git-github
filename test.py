@@ -1,6 +1,8 @@
 print("hello world!")
 print("드디어 로컬과 연결 성공!!!!")
 
+# git 교과서
+
 ##git
 # 초기화
 git init
@@ -20,3 +22,5 @@ git add .
 git commit -m "커밋할 내용"
 # 깃허브에 추가하기
 git push origin main
+# git 삭제하기
+git rm
